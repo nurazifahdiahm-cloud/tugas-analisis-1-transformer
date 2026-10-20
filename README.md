@@ -1,4 +1,4 @@
-# tugas-analisis-1-transformer# Tugas Analisis 1 — Transformer & Self-Attention
+# Tugas Analisis 1 — Transformer & Self-Attention
 
 Repositori ini berisi pengerjaan Tugas Analisis 1 pada praktikum Pekan 5 mata kuliah yang membahas Transformer dan Self-Attention.
 
